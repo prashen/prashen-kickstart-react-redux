@@ -152,7 +152,7 @@ class Sidebar extends React.Component {
     return (
       <HeaderWrapper>
         <HeaderLogo>
-          <h1><FontAwesomeIcon icon={'chart-bar'} /> Creative Teams</h1>
+          <h1><FontAwesomeIcon icon={'chart-bar'} /> Prashen & Teams</h1>
         </HeaderLogo>
 
         {this.handler(Menuitem.data)}
