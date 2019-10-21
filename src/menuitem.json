@@ -1,0 +1,66 @@
+{
+    "data": [
+      {
+        "name": "Home",
+        "icon":"chart-bar",
+        "url": "/",
+        "children": [
+          {
+            "name": "Analytics",
+            "icon":"chart-bar",
+            "url": "/analytics"
+          },
+          {
+            "name": "Commerce",
+            "icon":"chart-bar",
+            "url": "/commerce"
+          }
+        ]
+      },
+      {
+        "name": "About",
+        "icon":"chart-bar",
+        "url": "/about"
+      },
+      {
+        "name": "Item3",
+        "icon":"search",
+        "children": [
+          {
+            "name": "Child31",
+            "icon":"chart-bar",
+            "url": "/child31"
+          },
+          {
+            "name": "Child32",
+            "icon":"chart-bar",
+            "url": "/child32"
+          },
+          {
+            "name": "Child33",
+            "icon":"chart-bar",
+            "url": "/child33"
+          }
+        ]
+      },
+      {
+        "name": "Forms",
+        "icon":"chart-bar",
+        "url": "/",
+        "children": [
+          {
+            "name": "Basic Forms",
+            "icon":"chart-bar",
+            "url": "/forms"
+          },
+          {
+            "name": "Commerce",
+            "icon":"chart-bar",
+            "url": "/commerce"
+          }
+        ]
+      }
+     
+    ]
+  }
+  

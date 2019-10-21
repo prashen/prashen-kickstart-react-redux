@@ -1,0 +1,7 @@
+export const INCREMENT = 'INCREMENT';
+export const DECREMENT = 'DECREMENT';
+export const RESET = 'RESET';
+
+export const FETCH_POST_PENDING = 'FETCH_POST_PENDING';
+export const FETCH_POST_SUCCESS = 'FETCH_POST_SUCCESS';
+export const FETCH_POST_ERROR = 'FETCH_POST_ERROR';
